@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="172px" height="139px" viewBox="0 0 172 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15588) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group-Copy" sketch:type="MSLayerGroup">
+            <g id="Group">
+                <g id="Group-Copy-6" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-153" fill="#1581B8" x="4.98947368" y="0" width="74.0105263" height="139" rx="12"></rect>
+                    <rect id="Rectangle-153-Copy-3" stroke="#1581B8" fill="#D1ECF3" x="0" y="0" width="74.0105263" height="139" rx="12"></rect>
+                    <rect id="Rectangle-292" fill="#6BB4D4" x="4.75903614" y="10.4726027" width="64.8631579" height="108.314542" rx="1"></rect>
+                    <rect id="Rectangle-293" fill="#1581B8" x="28.2985075" y="124.864407" width="17.1795519" height="4.93491124" rx="4"></rect>
+                    <path d="M45.3637543,10.4726027 L5.75192573,10.4726027 C5.20787147,10.4726027 4.75903614,10.9217091 4.75903614,11.4757099 L4.75903614,80.8020376 L45.3637543,10.4726027 Z" id="Rectangle-292-Copy-2" fill="#98CBE1"></path>
+                </g>
+                <g id="Rectangle-23-+-Log-in-with-Facebook-Copy" transform="translate(9.518072, 86.636986)">
+                    <rect id="Rectangle-23" opacity="0.888001399" fill="#1581B8" sketch:type="MSShapeGroup" x="0" y="0" width="54.253012" height="11.3796786" rx="1"></rect>
+                    <text id="Log-in-with-Facebook" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="3.54583" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="10.4983362" y="6.80821918">Log in with Facebook</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-23-+-Sign-Up-Copy" transform="translate(9.518072, 101.869863)">
+                    <rect id="Rectangle-23" stroke="#FFFFFF" stroke-width="0.5" opacity="0.888001399" sketch:type="MSShapeGroup" x="0" y="0" width="54.253012" height="11.3796786" rx="1"></rect>
+                    <text id="Sign-Up" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="3.54583" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="20.9815826" y="6.80821918">Sign Up</tspan>
+                    </text>
+                </g>
+                <text id="SPACEBNB-Copy-3" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="6.55011506" font-weight="normal" letter-spacing="0.0216698162" fill="#FFFFFF">
+                    <tspan x="19.9879518" y="71.6917808">SPACEBNB</tspan>
+                </text>
+                <g id="Group-Copy-11" transform="translate(29.506024, 36.178082)" stroke="#FFFFFF" stroke-linecap="round" sketch:type="MSShapeGroup" stroke-linejoin="round">
+                    <path d="M7.61445783,0 C7.61445783,0 2.85542169,6.33033188 2.85542169,10.6913927 C2.85542169,13.352774 3.64898855,15.7064668 4.86470889,17.1369863 L10.3642068,17.1369863 C11.5799271,15.7064668 12.373494,13.352774 12.373494,10.6913927 C12.373494,6.33033188 7.61445783,0 7.61445783,0 L7.61445783,0 Z" id="Stroke-2"></path>
+                    <path d="M2.96732986,10.4726027 C2.96732986,10.4726027 0,11.6596687 0,14.3304273 C0,15.257847 0.936760752,18.0890411 0.936760752,18.0890411 C0.936760752,18.0890411 2.21594641,15.9543335 3.80722892,15.9543335" id="Stroke-3"></path>
+                    <path d="M12.3211981,10.4726027 C12.3211981,10.4726027 15.2289157,11.6596687 15.2289157,14.3304273 C15.2289157,15.257847 14.2344885,18.0890411 14.2344885,18.0890411 C14.2344885,18.0890411 12.9810011,15.9543335 11.4216867,15.9543335" id="Stroke-4"></path>
+                    <path d="M9.51807229,7.14041096 C9.51807229,7.92905995 8.87891562,8.56849315 8.09036145,8.56849315 C7.30191753,8.56849315 6.6626506,7.92905995 6.6626506,7.14041096 C6.6626506,6.35176197 7.30191753,5.71232877 8.09036145,5.71232877 C8.87891562,5.71232877 9.51807229,6.35176197 9.51807229,7.14041096 L9.51807229,7.14041096 Z" id="Stroke-5"></path>
+                    <path d="M9.51807229,21.3192224 C9.51807229,22.0515368 8.09036145,23.8013699 8.09036145,23.8013699 C8.09036145,23.8013699 6.6626506,22.0515368 6.6626506,21.3192224 C6.6626506,20.586908 7.30191753,19.9931507 8.09036145,19.9931507 C8.87891562,19.9931507 9.51807229,20.586908 9.51807229,21.3192224 L9.51807229,21.3192224 Z" id="Stroke-6"></path>
+                </g>
+            </g>
+            <g id="Group" transform="translate(93.000000, 0.000000)">
+                <g id="Group-Copy-7" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-153" fill="#1581B8" x="4.98947368" y="0" width="74.0105263" height="139" rx="12"></rect>
+                    <rect id="Rectangle-153-Copy-3" stroke="#1581B8" fill="#D1ECF3" x="0" y="0" width="74.0105263" height="139" rx="12"></rect>
+                    <rect id="Rectangle-292" fill="#FFFFFF" x="4.75903614" y="10.4726027" width="64.8631579" height="108.314542" rx="1"></rect>
+                    <rect id="Rectangle-293" fill="#1581B8" x="28.2985075" y="124.864407" width="17.1795519" height="4.93491124" rx="4"></rect>
+                    <path d="M45.3637543,10.4726027 L5.75192573,10.4726027 C5.20787147,10.4726027 4.75903614,10.9217091 4.75903614,11.4757099 L4.75903614,80.8020376 L45.3637543,10.4726027 Z" id="Rectangle-292-Copy-2" fill="#F9F9F9"></path>
+                </g>
+                <g id="Rectangle-23-+-Log-in-with-Facebook-Copy-2" transform="translate(9.518072, 86.636986)">
+                    <rect id="Rectangle-23" opacity="0.888001399" fill="#1581B8" sketch:type="MSShapeGroup" x="0" y="0" width="54.253012" height="11.3796786" rx="1"></rect>
+                    <text id="Log-in-with-Facebook" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="3.54583" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                        <tspan x="10.4983362" y="6.80821918">Log in with Facebook</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-23-+-Sign-Up-Copy-2" transform="translate(9.518072, 101.869863)">
+                    <rect id="Rectangle-23" stroke="#3090C1" stroke-width="0.5" opacity="0.888001399" sketch:type="MSShapeGroup" x="0" y="0" width="54.253012" height="11.3796786" rx="1"></rect>
+                    <text id="Sign-Up" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="3.54583" font-weight="normal" sketch:alignment="middle" fill="#3090C1">
+                        <tspan x="20.9815826" y="6.80821918">Sign Up</tspan>
+                    </text>
+                </g>
+                <text id="SPACEBNB-Copy-4" sketch:type="MSTextLayer" font-family="Proxima Nova" font-size="6.55011506" font-weight="normal" letter-spacing="0.0216698162" fill="#6BB4D4">
+                    <tspan x="19.9879518" y="71.6917808">SPACEBNB</tspan>
+                </text>
+                <g id="Group-Copy-12" transform="translate(29.506024, 36.178082)" stroke="#6BB4D4" stroke-linecap="round" sketch:type="MSShapeGroup" stroke-linejoin="round">
+                    <path d="M7.61445783,0 C7.61445783,0 2.85542169,6.33033188 2.85542169,10.6913927 C2.85542169,13.352774 3.64898855,15.7064668 4.86470889,17.1369863 L10.3642068,17.1369863 C11.5799271,15.7064668 12.373494,13.352774 12.373494,10.6913927 C12.373494,6.33033188 7.61445783,0 7.61445783,0 L7.61445783,0 Z" id="Stroke-2"></path>
+                    <path d="M2.96732986,10.4726027 C2.96732986,10.4726027 0,11.6596687 0,14.3304273 C0,15.257847 0.936760752,18.0890411 0.936760752,18.0890411 C0.936760752,18.0890411 2.21594641,15.9543335 3.80722892,15.9543335" id="Stroke-3"></path>
+                    <path d="M12.3211981,10.4726027 C12.3211981,10.4726027 15.2289157,11.6596687 15.2289157,14.3304273 C15.2289157,15.257847 14.2344885,18.0890411 14.2344885,18.0890411 C14.2344885,18.0890411 12.9810011,15.9543335 11.4216867,15.9543335" id="Stroke-4"></path>
+                    <path d="M9.51807229,7.14041096 C9.51807229,7.92905995 8.87891562,8.56849315 8.09036145,8.56849315 C7.30191753,8.56849315 6.6626506,7.92905995 6.6626506,7.14041096 C6.6626506,6.35176197 7.30191753,5.71232877 8.09036145,5.71232877 C8.87891562,5.71232877 9.51807229,6.35176197 9.51807229,7.14041096 L9.51807229,7.14041096 Z" id="Stroke-5"></path>
+                    <path d="M9.51807229,21.3192224 C9.51807229,22.0515368 8.09036145,23.8013699 8.09036145,23.8013699 C8.09036145,23.8013699 6.6626506,22.0515368 6.6626506,21.3192224 C6.6626506,20.586908 7.30191753,19.9931507 8.09036145,19.9931507 C8.87891562,19.9931507 9.51807229,20.586908 9.51807229,21.3192224 L9.51807229,21.3192224 Z" id="Stroke-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
